@@ -23,3 +23,20 @@
 | See total charge or add pizza | click on desired button | display total charge or prompt user to add pizzas |
 | Have pizza delivered | click on delivery button | prompt user to enter delivery info & display cost |
 | Checkout | Click on checkout button | Display total cost |
+
+
+
+#### **Project setup & collaboration**
+* On your terminal, clone this repo and open your local repo on your text editor
+```sh
+git clone 
+cd pizzaShop
+code . 
+```
+
+#### **Contact**
+>Neema Minage minageneema98@gmail.com <br>
+>Live Link: 
+
+#### **Copyright & License**
+Distributed under the MIT License. See LICENSE for more information on license and copyright. 
