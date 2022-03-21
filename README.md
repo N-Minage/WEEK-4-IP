@@ -30,13 +30,13 @@
 * On your terminal, clone this repo and open your local repo on your text editor
 ```sh
 git clone 
-cd pizzaShop
+cd WEEK-4-IP
 code . 
 ```
 
 #### **Contact**
 >Neema Minage minageneema98@gmail.com <br>
->Live Link: 
+>Live Link: https://n-minage.github.io/WEEK-4-IP/
 
 #### **Copyright & License**
 Distributed under the MIT License. See LICENSE for more information on license and copyright. 
