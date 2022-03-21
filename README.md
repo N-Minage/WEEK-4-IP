@@ -29,7 +29,7 @@
 #### **Project setup & collaboration**
 * On your terminal, clone this repo and open your local repo on your text editor
 ```sh
-git clone 
+git clone https://github.com/N-Minage/WEEK-4-IP
 cd WEEK-4-IP
 code . 
 ```
